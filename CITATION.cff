@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Tamasauskas
+    given-names: Arnas
+    orcid: https://orcid.org/my-orcid?orcid=0009-0002-0035-2973
+title: "R221W Fixel Analysis"
+version: 1.0
+
+date-released: 2025-07-09
